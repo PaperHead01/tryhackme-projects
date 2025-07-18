@@ -1,1 +1,1 @@
-# tryhackmw-projects
+# tryhackme-projects
