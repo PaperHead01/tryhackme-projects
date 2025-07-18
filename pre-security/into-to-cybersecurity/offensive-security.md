@@ -6,7 +6,7 @@ This was a very basic starting room, and explained, what is offensive security, 
 ### Task2
 got into a virtual setup of a fakebank using gobuster
 
-![fake-bank](../images/fake-bank.png)
+![fake-bank](../intro-to-cybersecurity/images/fake-bank.png)
 
 #### command used
 `gobuster -u http://fakebank.thm -w wordlist.txt dir` 
