@@ -3,9 +3,8 @@
 
 ---
 
-### 🌟Main Repo Overview)
+### 🌟Main Repo Overview
 
-```markdown
 # Cybersecurity Portfolio 🛡️
 
 This repository showcases my hands-on cybersecurity projects and TryHackMe progress.
@@ -17,11 +16,6 @@ This repository showcases my hands-on cybersecurity projects and TryHackMe progr
 - `blue-team/` – Forensics and incident response labs
 - `scripts/` – Automation tools and bash/python scripts
 - `badges-certificates/` – Earned certifications and achievements
-
-## 📜 Certificates
-
-- ✅ TryHackMe Jr Penetration Tester (2025)
-- ✅ SOC Level 1 (2025)
 
 ## 🛠️ Tools & Skills
 - Kali Linux, Nmap, Burp Suite, Wireshark, Hydra
