@@ -3,7 +3,7 @@
 
 ---
 
-### 🌟 4. **README.md (Main Repo Overview)**
+### 🌟Main Repo Overview)
 
 ```markdown
 # Cybersecurity Portfolio 🛡️
