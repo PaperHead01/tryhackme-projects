@@ -80,7 +80,9 @@ We successfully Blocked the ip
 <img src="../intro-to-cybersecurity/images/defensive-security/success.png" alt="success" width="600"/>
 
 ## 📕 Learnings
-1.
+1. What is Defensive Security?
+2. What is SOC , DFIR and Malware Analysis?
+3. Simulated SIEM
 
    
 
