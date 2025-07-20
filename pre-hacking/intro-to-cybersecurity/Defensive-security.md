@@ -27,7 +27,33 @@ SOC ensures protection by various methods, one of them is by using Threat Intell
 Gathering information about potential and currently existing threats and actual enemies, this process of collecting, processing,and analyzing is known as threat intelligence.
 Analyzing will help in predecting the behaviour and motives of the adversary, Threat intelligence aims to create a list of executionable steps and recommendations.
 
-<img src="threat-intelligence.png" alt="threat-intelligence" width="400"/>
+<img src="../intro-to-cybersecurity/images/defensive-security/threat-intelligence.png" alt="threat-intelligence" width="400"/>
+
+#### Digital Forensics & Incident Response(DFIR)
+Forensics is science of investigating crimes, therefore forensics with digital media is known as Digital Forensics.
+Analyzing file systems, system logs, system memory and network logs, is all part of digital forensics.
+
+#### Incident Response
+The procedure of acting and responding to a cyber attack , and minimize and contain the damage of it , is part of incident response.
+Phases of incident response:-
+1. Preparation
+2. Detection & Analysis
+3. Containment, Eradication and Recovery
+4. Post-incident activity
+
+<img src="../intro-to-cybersecurity/images/defensive-security/IR.png" alt="IR" width="600"/>
+
+#### Malware Analysis
+Determining the origin, functioning, and impact of a malware(viruses,trojans,ransomwares,spywares,botnets,rootkits,etc..), is malware analysis. 
+There are two types of malware analysis
+1. Static(Observation without running the malware)
+2. Dynamic(Observation by running the malware in a controlled enviornment)
+
+### Task 3
+Performed a role of junior security analyst , and learnt Security information & Event management(SIEM)
+#### Simulating SIEM
+
+<img src="../intro-to-cybersecurity/images/defensive-security/.png" alt="IR" width="600"/>
 
 
 
