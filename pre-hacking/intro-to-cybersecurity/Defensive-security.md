@@ -1,7 +1,7 @@
 # 🛡️ Defensive security introduction(ROOM2)
 
 ## 📝 Summary
-### Task1
+### =>Task1
 Learnt about defensive security 
 #### Defensive security team is also known as blue team, major roles of blue team include:-
 1. Preventing intrusions
@@ -13,7 +13,7 @@ Learnt about defensive security
 3. Taking preventive measures, like intrusion prevention systems(IPS) and firewalls.
 4. Continuously monitoring devices, logs,networks etc.
 
-### Task2
+### =>Task2
 In task 2 , i learnet about Security operations center(SOC) and Digital Forensics and Incident Response(DFIR)
 #### SOC areas of interests are:-
 1. Vulnerablities identification and patching.
@@ -49,7 +49,7 @@ There are two types of malware analysis
 1. Static(Observation without running the malware)
 2. Dynamic(Observation by running the malware in a controlled enviornment)
 
-### Task 3
+### =>Task 3
 Performed a role of junior security analyst , and Simulated Security information & Event management(SIEM)
 
 #### Steps performed
@@ -61,7 +61,16 @@ Then checked the ip address to see if it is malicious or not , there are website
 
 <img src="../intro-to-cybersecurity/images/defensive-security/malicious-ip.png" alt="malicious-ip" width="600"/>
 
+The details regarding the ip was found on AbuseIPDB(there are databases over the internet which keep the record of malicious ip's, we can also report malicious ip's there).
+The ip in our case was found malicious, so now we proceed and escalate the issue and report it to the right person on the team. So we inform about this to 'Will Griffin' who is SOC Team Lead.
 
+<img src="../intro-to-cybersecurity/images/defensive-security/staff.png" alt="staff" width="600"/>
+
+After getting the permission to proceed we Blocklist the ip in Firewall, so that there cannot be any further attemps.
+
+<img src="../intro-to-cybersecurity/images/defensive-security/siem-ip.png" alt="siem" width="600"/>
+
+<img src="../intro-to-cybersecurity/images/defensive-security/blocked-ip.png" alt="ip-blocked" width="600"/>
 
 
 
