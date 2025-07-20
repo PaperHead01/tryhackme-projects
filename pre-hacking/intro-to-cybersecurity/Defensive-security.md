@@ -68,24 +68,19 @@ The ip in our case was found malicious, so now we proceed and escalate the issue
 
 After getting the permission to proceed we Blocklist the ip in Firewall, so that there cannot be any further attemps.
 
-<img src="../intro-to-cybersecurity/images/defensive-security/siem-ip.png" alt="siem" width="600"/>
-
-<img src="../intro-to-cybersecurity/images/defensive-security/blocked-ip.png" alt="ip-blocked" width="600"/>
-
-
-
-
-
-
+<img src="../intro-to-cybersecurity/images/defensive-security/ip-block.png" alt="ip-blocked" width="600"/>
 
 
 ## ✅ Findings
-
+1. An Anomaly(Unauthorized connection attempt)
 
 ## 🎖️ Success
+We successfully Blocked the ip
 
+<img src="../intro-to-cybersecurity/images/defensive-security/success.png" alt="success" width="600"/>
 
 ## 📕 Learnings
+1.
 
    
 
