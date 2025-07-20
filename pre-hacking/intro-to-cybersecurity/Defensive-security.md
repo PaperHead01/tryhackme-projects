@@ -27,7 +27,9 @@ SOC ensures protection by various methods, one of them is by using Threat Intell
 Gathering information about potential and currently existing threats and actual enemies, this process of collecting, processing,and analyzing is known as threat intelligence.
 Analyzing will help in predecting the behaviour and motives of the adversary, Threat intelligence aims to create a list of executionable steps and recommendations.
 
-![threat_intelligence]
+<img src="threat-intelligence.png" alt="threat-intelligence" width="400"/>
+
+
 
 
 
