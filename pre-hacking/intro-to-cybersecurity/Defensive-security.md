@@ -50,16 +50,24 @@ There are two types of malware analysis
 2. Dynamic(Observation by running the malware in a controlled enviornment)
 
 ### Task 3
-Performed a role of junior security analyst , and learnt Security information & Event management(SIEM)
-#### Simulating SIEM
+Performed a role of junior security analyst , and Simulated Security information & Event management(SIEM)
 
-<img src="../intro-to-cybersecurity/images/defensive-security/.png" alt="IR" width="600"/>
+#### Steps performed
+Analyzed the SIEm Dashboard and found an anomaly(unautorized connection attempt) from ip '143.110.250.149' to port '22' on 7th 2025
+
+<img src="../intro-to-cybersecurity/images/defensive-security/siem-ip.png" alt="siem" width="600"/>
+ 
+Then checked the ip address to see if it is malicious or not , there are websites on the internet which let you do it
+
+<img src="../intro-to-cybersecurity/images/defensive-security/malicious-ip.png" alt="malicious-ip" width="600"/>
 
 
 
 
 
-#### 👨‍💻 Command used
+
+
+
 
 
 ## ✅ Findings
