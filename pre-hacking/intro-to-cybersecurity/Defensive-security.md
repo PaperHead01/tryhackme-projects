@@ -75,7 +75,7 @@ After getting the permission to proceed we Blocklist the ip in Firewall, so that
 1. An Anomaly(Unauthorized connection attempt)
 
 ## 🎖️ Success
-We successfully Blocked the ip
+Successfully Blocked the malicious ip.
 
 <img src="../intro-to-cybersecurity/images/defensive-security/success.png" alt="success" width="600"/>
 
