@@ -74,6 +74,9 @@ After getting the permission to proceed we Blocklist the ip in Firewall, so that
 ## ✅ Findings
 1. An Anomaly(Unauthorized connection attempt)
 
+## ⛳️ Flag Captured
+THM{THREAT-BLOCKED}
+
 ## 🎖️ Success
 Successfully Blocked the malicious ip.
 
